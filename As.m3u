@@ -8,3 +8,6 @@ https://stream.supertv.gg:3001/supertv/sport/stv1/ch1/ch1_1080.m3u8
 #EXTINF:-1, B7
 #EXTVLCOPT:http-player-type=webplayer
 https://stream.supertv.gg:3001/supertv/sport/stv1/ch1/ch1_1080.m3u8
+#EXTINF:-1, G8
+#EXTVLCOPT:http-player-type=browser
+https://stream.supertv.gg:3001/supertv/sport/stv1/ch1/ch1_1080.m3u8
