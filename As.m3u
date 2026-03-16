@@ -1,4 +1,5 @@
 #EXTM3U
+#EXTINF:-1,UGEEN IPTV
 #EXTINF:-1, Bein sport hd1
 https://stream.supertv.gg:3001/supertv/sport/stv1/ch1/ch1_1080.m3u8
 #EXTINF:-1, B1
