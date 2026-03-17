@@ -9,3 +9,5 @@ https://stream.supertv.gg:3001/supertv/sport/stv1/ch2/ch2_1080.m3u8
 https://stream.supertv.gg:3001/supertv/sport/stv1/ch3/ch3_1080.m3u8
 #EXTINF:-1, Bein hd3
 https://stream.supertv.gg:3001/supertv/sport/stv1/ch4/ch4_1080.m3u8
+#EXTINF:-1, Bein 5 hd
+https://stream.supertv.gg:3001/supertv/sport/stv1/ch5/ch5_1080.m3u8
