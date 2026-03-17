@@ -1,13 +1,2 @@
 #EXTINF:-1, Bein sport hd1
 https://stream.supertv.gg:3001/supertv/sport/stv1/ch1/ch1_1080.m3u8
-#EXTINF:-1, B1
-https://stream.supertv.gg:3001/supertv/sport/stv1/ch1/ch1_108013552089.ts
-#EXTINF:-1, B5
-#EXTVLCOPT:http-player-type=external
-https://stream.supertv.gg:3001/supertv/sport/stv1/ch1/ch1_1080.m3u8
-#EXTINF:-1, B7
-#EXTVLCOPT:http-player-type=webplayer
-https://stream.supertv.gg:3001/supertv/sport/stv1/ch1/ch1_1080.m3u8
-#EXTINF:-1, G8
-#EXTVLCOPT:http-player-type=browser
-https://stream.supertv.gg:3001/supertv/sport/stv1/ch1/ch1_1080.m3u8
