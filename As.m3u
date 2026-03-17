@@ -11,4 +11,4 @@ https://stream.supertv.gg:3001/supertv/sport/stv1/ch5/ch5_1080.m3u8
 #EXTINF:-1, Bein hd 6
 https://stream.supertv.gg:3001/supertv/sport/stv1/ch6/ch6_1080.m3u8
 #EXTINF:-1, Post 1 hd
-https://cdn3-mejarhosting.cfd/ftv1_1080p/tracks-a1/init.m4v
+https://cdn3-mejarhosting.cfd/ftv1_1080p/index.mpd
