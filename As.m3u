@@ -14,3 +14,5 @@ https://stream.supertv.gg:3001/supertv/sport/stv1/ch6/ch6_1080.m3u8
 http://172.110.216.98:2095/live/98653226884/17441864105955/318197.m3u8?token=zdXbfc.baUfz.X.fUcUc.yczHbdcU.X.y.US.m3u8.d10f9d9910ed954196c0311e9ecaa52ff9ccc70af974fb8bf9f82431fd106b7b...c3VwYWFwcC54eXo=
 #EXTINF:-1, Bein 1 4k
 http://185.191.127.206:2095/hlsr/zdXbfc.fXXdz.X.bfaz.yczHbdcU.X.y.US.m3u8.010ea5eccf5e055ac56924d4b523ca4f0e9e05e0e36e3d20bcb99db778e51ea7...c3VwYWFwcC54eXo/98653226884/17441864105955/318197/a3f45eb548d789e622e36834429a0530/318197_1180.ts
+#EXTINF:-1, Bein 4k
+http://172.110.216.98:2095/live/98653226884/17441864105955/318197.m3u8?token=zdXbfc.baUfz.X.fUcUc.yczHbdcU.X.y.US.m3u8.d10f9d9910ed954196c0311e9ecaa52ff9ccc70af974fb8bf9f82431fd106b7b...c3VwYWFwcC54eXo=
