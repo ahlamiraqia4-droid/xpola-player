@@ -10,73 +10,9 @@ https://stream.supertv.gg:3001/supertv/sport/stv1/ch4/ch4_1080.m3u8
 https://stream.supertv.gg:3001/supertv/sport/stv1/ch5/ch5_1080.m3u8
 #EXTINF:-1, Bein hd 6
 https://stream.supertv.gg:3001/supertv/sport/stv1/ch6/ch6_1080.m3u8
-#EXTINF:-1, Post 1 fhd
-http://172.110.216.98:2095/live/98653226884/17441864105955/318197.m3u8?token=zdXbfc.baUfz.X.fUcUc.yczHbdcU.X.y.US.m3u8.d10f9d9910ed954196c0311e9ecaa52ff9ccc70af974fb8bf9f82431fd106b7b...c3VwYWFwcC54eXo=
-#EXTINF:-1, Bein1 4k
-http://172.110.216.98:2095/live/98653226884/17441864105955/318197.m3u8?token=zdXbfc.baUfz.X.fUcUc.yczHbdcU.X.y.US.m3u8.d10f9d9910ed954196c0311e9ecaa52ff9ccc70af974fb8bf9f82431fd106b7b...c3VwYWFwcC54eXo=
-#EXTINF:-1, Bein2 4k
-http://172.110.216.170:2095/live/98653226884/17441864105955/318198.m3u8?token=zdXbfc.fbcbz.X.bfUXz.yczHbdcU.X.y.US.m3u8.004d3a4d375b52a12d283b23b0a7e6e939b3637cdfddb5956a768abcf44b302c...c3VwYWFwcC54eXo=
-#EXTINF:-1, Bein3 4k
-http://5.183.209.74:2095/live/98653226884/17441864105955/318199.m3u8?token=zdXbfc.UdUdd.X.yfaHf.yczHbdcU.X.y.US.m3u8.a374162c6bd851a91a40899a174e586763515c8751c7601942d7fd5cd36a7424...c3VwYWFwcC54eXo=
-#EXTINF:-1, Bein4 4k
-http://185.191.127.250:2095/live/98653226884/17441864105955/440580.m3u8?token=zdXbfc.yddzU.X.ydbdd.yczHbdcU.X.y.US.m3u8.0210c01e3d4a5ec55680073dd585ccae2b49cd733ba636dc05e0d5097e8526a6...c3VwYWFwcC54eXo=
-#EXTINF:-1, Bein5 4k
-http://172.110.216.98:2095/live/98653226884/17441864105955/318201.m3u8?token=zdXbfc.afybd.X.UfyUH.yczHbdcU.X.y.US.m3u8.c31d141ce5d3a8d70528e0a7de08078c2141f2f9d89df0fce592691533ad4626...c3VwYWFwcC54eXo=
-#EXTINF:-1, Bein6 4k
-http://5.183.209.74:2095/live/98653226884/17441864105955/318202.m3u8?token=zdXbfc.cUaUb.X.yffad.yczHbdcU.X.y.US.m3u8.0d577bd935c362ec89ebc77d824deb87f217b8e33530e12fb8d4d34d8102ba69...c3VwYWFwcC54eXo=
-#EXTINF:-1, B1
-http://2.57.214.8:2095/live/98653226884/17441864105955/391094.m3u8?token=zdXbfc.UXfyH.X.cacUH.yczHbdcU.X.y.US.m3u8.f1019255d849802990f5e7337fd62624c8bbdc1d85f1d3e3e2842de34a985f7e...c3VwYWFwcC54eXo=
-#EXTINF:-1, B2
-http://5.183.209.74:2095/live/98653226884/17441864105955/391095.m3u8?token=zdXbfc.yzUcy.X.ycUbc.yczHbdcU.X.y.US.m3u8.0c30c37f3c234b287063699efd240b071b33708f2f09cc20ce910e5a5f523d96...c3VwYWFwcC54eXo=
-#EXTINF:-1, B3
-http://172.110.216.18:2095/live/98653226884/17441864105955/391096.m3u8?token=zdXbfc.ydccHyc.X.dXydU.yczHbdcU.X.y.US.m3u8.41b4e07a60eb098068064dc840ab280b78586495ed1b7522a2f1863d4866724f...c3VwYWFwcC54eXo=
-#EXTINF:-1, B4
-http://94.156.33.99:2095/live/98653226884/17441864105955/391097.m3u8?token=zdXbfc.ydcdb.X.fHada.yczHbdcU.X.y.US.m3u8.ee3998e76ed7f806d23749b8611cbacad344ea780c836e5fa82cc0f575041cde...c3VwYWFwcC54eXo=
-#EXTINF:-1, B5
-http://172.110.216.98:2095/live/98653226884/17441864105955/391098.m3u8?token=zdXbfc.yUHfz.X.azcUH.yczHbdcU.X.y.US.m3u8.24da1445d2ec67cf411b118967ff4561169a0a04afc52c6570ed049b151fe4e1...c3VwYWFwcC54eXo=
-#EXTINF:-1, B6
-http://185.191.127.250:2095/live/98653226884/17441864105955/391099.m3u8?token=zdXbfc.acbbU.X.ayXUz.yczHbdcU.X.y.US.m3u8.cccc472117d68276a71adf39234156378d27b5e86730598b5d49e79be949d808...c3VwYWFwcC54eXo=
-#EXTINF:-1, B1 hd
-http://172.110.216.170:2095/live/98653226884/17441864105955/325793.m3u8?token=zdXbfc.UfyzH.X.cHdb.yczHbdcU.X.y.US.m3u8.51ca17fe67e02e1dbf63d8401738ab13a2ea4909c26851baa38344b788dc0348...c3VwYWFwcC54eXo=
-#EXTINF:-1, B2 hd
-http://185.191.127.250:2095/live/98653226884/17441864105955/325794.m3u8?token=zdXbfc.acaa.X.Hayc.yczHbdcU.X.y.US.m3u8.e6c8cebebf69ee9c3e9b55745f5edf49cfcf4b7c57530a0f4261420b25db5152...c3VwYWFwcC54eXo=
-#EXTINF:-1, B3 hd
-http://172.110.216.170:2095/live/98653226884/17441864105955/325795.m3u8?token=zdXbfc.fHddU.X.aydc.yczHbdcU.X.y.US.m3u8.ccc79ddd2cb7528c1f6f82023b847f5ce716414f8c1dc272412d5aa150eebbb2...c3VwYWFwcC54eXo=
-#EXTINF:-1, B4 hd
-http://185.191.127.206:2095/live/98653226884/17441864105955/325796.m3u8?token=zdXbfc.bXXfc.X.fzafU.yczHbdcU.X.y.US.m3u8.023bec58dc70bf68d95de63b4d06ce5973edfe5cfce4137456b7e263b9c058eb...c3VwYWFwcC54eXo=
-#EXTINF:-1, B5 hd
-http://172.110.216.98:2095/live/98653226884/17441864105955/325797.m3u8?token=zdXbfc.faUH.X.Ufafy.yczHbdcU.X.y.US.m3u8.8d69c9b1bee44eaf7904920dbc29b96fe67b68a9a8ab4b46a72d267a0f119d1f...c3VwYWFwcC54eXo=
-#EXTINF:-1, B6 hd
-http://185.191.127.206:2095/live/98653226884/17441864105955/325798.m3u8?token=zdXbfc.czbcy.X.cHUXU.yczHbdcU.X.y.US.m3u8.0a74debf58610e51750283cdbd9532c4d21903890802b25f978cb9fb45ef197a...c3VwYWFwcC54eXo=
-#EXTINF:-1, 1 4k
-http://extarv3.me/live/Bengamenbukinafaso2026/msvrpi45e1/114053.ts
-#EXTINF:-1, 2 4k
-http://extarv3.me/live/Bengamenbukinafaso2026/msvrpi45e1/114052.ts
-#EXTINF:-1, 3 4k
-http://extarv3.me/live/Bengamenbukinafaso2026/msvrpi45e1/114050.ts
-#EXTINF:-1, 4 4k
-http://extarv3.me/live/Bengamenbukinafaso2026/msvrpi45e1/114049.ts
-#EXTINF:-1, 5 4k
-http://extarv3.me/live/Bengamenbukinafaso2026/msvrpi45e1/114048.ts
-#EXTINF:-1, 6 4k
-http://extarv3.me/live/Bengamenbukinafaso2026/msvrpi45e1/114047.ts
-#EXTINF:-1, 1 hd
-http://extarv3.me/live/Bengamenbukinafaso2026/msvrpi45e1/1.ts
-#EXTINF:-1, 2 hd
-http://extarv3.me/live/Bengamenbukinafaso2026/msvrpi45e1/2.ts
-#EXTINF:-1, 3 hd
-http://extarv3.me/live/Bengamenbukinafaso2026/msvrpi45e1/4.ts
-#EXTINF:-1, 4 hd
-http://extarv3.me/live/Bengamenbukinafaso2026/msvrpi45e1/5.ts
-#EXTINF:-1, 5 hd
-http://extarv3.me/live/Bengamenbukinafaso2026/msvrpi45e1/6.ts
-#EXTINF:-1, 6 hd
-http://extarv3.me/live/Bengamenbukinafaso2026/msvrpi45e1/7.ts
 #EXTINF:-1, Aymn 1
 http://xmrcars.org:8080/bn14k/tracks-v1a1/mono.m3u8
 #EXTINF:-1, Aymn3
 http://xmrcars.org:8080/bn34k/tracks-v1a1/mono.m3u8
-#EXTINF:-1, 6 hd
-http://extarv3.me/live/Bengamenbukinafaso2026/msvrpi45e1/7.ts
 #EXTINF:-1, Aymn 2
 http://xmrcars.org:8080/bn24k/tracks-v1a1/mono.m3u8
